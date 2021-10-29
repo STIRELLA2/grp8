@@ -3,7 +3,7 @@ app = Flask(__name__) # "__main__"
 
 
 @app.route('/grp7', methods=['GET'])
-def grp7():
+def flask_import():
   return """<html>
   <body>
   <h1>welcome to group 7's midterm project <h1>
