@@ -2,7 +2,7 @@ from flask import Flask
 app = Flask(__name__) # "__main__"
 
 
-@app.route('/grp7', methods=['GET'])
+@app.route('/grp7', methods=['GET', 'POST', 'PUT, 'PATCH', 'DELETE'])
 def flask_import():
   return """<html>
  
