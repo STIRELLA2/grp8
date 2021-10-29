@@ -2,11 +2,11 @@ from flask import Flask
 app = Flask(__name__) # "__main__"
 
 
-@app.route('/hello', methods=['GET'])
-def hello_world():
+@app.route('/grp7', methods=['GET'])
+def grp7():
   return """<html>
   <body>
-  <h1>midterm project group7<h1>
+  <h1>welcome to group 7's midterm project <h1>
   </body>
   </html>
   """
