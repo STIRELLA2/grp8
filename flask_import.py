@@ -16,7 +16,8 @@ def flask_import():
 
 2. Able to accept cURL calls on one route and successfully return a 200 status when called<br>
 
-3. Able to accept in a request with a payload including a string and a requested NLP service. Our project is of returning 2 services for each member of our group<br>
+3. Able to accept in a request with a payload including a string and a requested NLP service. 
+&nbsp;&nbsp&nbsp;&nbsp;Our project is capable of returning 2 services for each member of our group<br>
 </p>
 </body>
   </html>
