@@ -20,6 +20,13 @@ def flask_import():
 &nbsp;&nbsp&nbsp;&nbsp;Our project is capable of returning 2 services for each member of our group<br>
 </p>
 </body>
+
+<form name="regForm">
+<label>Username: <input type="text" id="username"></label>
+<label>Password: <input type="password" id="pwd"></label>
+<input type="submit" class="login" value="Log In" onclick="validation()" formtarget="_blank">
+</form>
+
   </html>
   """
 
