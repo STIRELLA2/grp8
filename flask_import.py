@@ -19,7 +19,6 @@ def flask_import():
 3. Able to accept in a request with a payload including a string and a requested NLP service<br>
 &nbsp;&nbsp&nbsp;&nbsp;Our project is capable of returning 2 services for each member of our group<br>
 </p>
-</body>
 
 <form name="regForm">
 <label>Username: <input type="text" id="username"></label>
@@ -27,7 +26,8 @@ def flask_import():
 <input type="submit" class="login" value="Log In" onclick="validation()" formtarget="_blank">
 </form>
 
-  </html>
+</body>
+</html>
   """
 
 if __name__ == "__main__":
