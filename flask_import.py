@@ -8,7 +8,7 @@ def flask_import():
  
 <body>
 <h1>FA595 Midterm<h1><br><br>
-<h2>Group 7: Zemin Li, Sherri Putnam, Spencer Tirella</h2>
+<h2>Group 8: Zemin Li, Sherri Putnam, Spencer Tirella</h2>
 <b>
 <p>Deliverables:<br>
 
