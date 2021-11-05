@@ -3,3 +3,19 @@ yum install git
 yum install flask
 
 yum install json
+
+yum install nltk
+
+yum install request
+
+from nltk import word_tokenize
+
+from nltk.tokenize import wordpunct_tokenize
+
+from nltk.tokenize import RegexpTokenizer
+
+from nltk import pos_tag
+
+from nltk import RegexpParser
+
+from collections import Counter
