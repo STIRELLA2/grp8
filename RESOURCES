@@ -2,11 +2,17 @@ yum install git
 
 yum install flask
 
+import os
+
+import requests
+
+from flask import Flask, render_template, request
+
+from flask_sqlalchemy import SQLAlchemy
+
 yum install json
 
 yum install nltk
-
-yum install request
 
 from nltk import word_tokenize
 
